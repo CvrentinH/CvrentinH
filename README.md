@@ -7,12 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/corentin-hellier-7b928b29b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellier.corentin@gmail.com)
 
-<br />
-
-> **Je construis des ponts entre la Data Science et l'Ingénierie Backend.** > Passionné par l'automatisation, la scalabilité et les architectures propres.
-
-<br />
-
 **ACTUELLEMENT : À la recherche d'un stage (3-6 mois) en Data Science / MLOps / Data Engineering**
 
 </div>
