@@ -1,1 +1,46 @@
-. <div align="center"> . . # Hi there, I'm Corentin! 👋 . . ### 🚀 Junior Data Scientist . Python | Machine Learning | SEO Analytics | Backend . . I build data-driven tools that turn raw information into decisions. . . . . . </div> . . --- . . ## 👨‍💻 About Me . . My work navigates between backend development, data engineering, machine learning, and more recently, SEO/LLM visibility audits. . . - 🧠 Mindset : J’apprends vite, je teste beaucoup et je construis des projets concrets. . - 🔭 Exploration : N'hésitez pas à consulter mes repositories pour voir mon code en action. . . --- . . ## 🛠 What I Do . . ### 📊 Data Science & Machine Learning . - 🧹 Préparation de données : Nettoyage et preprocessing avancé. . - 🤖 Modélisation : Régression, classification, séries temporelles. . - ⚙️ Feature Engineering : Optimisation et sélection de variables. . . ### 🏗 Data Engineering . - 🔄 Pipelines ETL : Scripts Python robustes. . - 🔌 Intégration : CSV, Excel, Connexions API. . - ⏱️ Automation : Monitoring et tâches planifiées. . . ### 💻 Backend Development . - ⚡ APIs : Développement rapide avec FastAPI. . - 🗄️ Bases de données : Gestion SQLite / PostgreSQL. . - 🏗️ Architecture : Conception modulaire orientée analyse. . . ### 🔍 SEO Technical Analysis & LLM Visibility . - 📈 Audit sur mesure : Balises, performances, structure, backlinks. . - 🤖 AEO / LLM SEO : Indicateurs dédiés pour l'optimisation IA. . - 🛠️ Outillage : Création d'outils d'audit automatisés (Python + React). . . --- . . ## 🏆 Highlight Project: SEO & LLM Visibility Analyzer . . Un outil full-stack (FastAPI + React) conçu pour l'analyse technique et IA. . . | Fonctionnalité | Description | . | :--- | :--- | . | 🕵️ Analyse Technique | Audit complet d'URL (HTTPS, Vitesse, Balises, Backlinks). | . | 🧮 Scoring | Calcul d'un score SEO pondéré personnalisé. | . | 🤖 Audit IA | Analyse de visibilité spécifique pour les LLMs (AEO). | . | 📊 Reporting | Stockage des résultats et génération de rapports exploitables. | . . --- . . ## 🧰 Tech Stack . . ### Languages . . . . . . . ### Data & AI . . . . . . . ### Backend & Tools . . . . . . . . . --- . . ## ⚡ GitHub Stats . . <div align="center"> . <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" /> . <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_ICI&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" /> . </div>
+# Corentin Hellier — Data Science & Backend Engineering
+Étudiant en Data Science, je construis des projets orientés data et backend avec un goût prononcé pour l’automatisation, la scalabilité et les pipelines propres. Mes travaux tournent autour de Python, FastAPI, la data, l’orchestration d’infrastructures et le développement d’outils analytiques.
+Je recherche actuellement un stage en Data Science pour approfondir mes compétences en machine learning, data engineering et MLOps.
+---
+## Technologies principales
+Python • FastAPI • SQL • Docker • Excel
+---
+## Projets sélectionnés
+### LeadScanner
+Outil complet d’analyse SEO (On-page/Off-page) avec extraction d’emails pour l’envoi automatisé de leads.
+Stack : BeautifulSoup, FastAPI, React
+Code : (GitHub) https://github.com/CvrentinH/Projet_lead_acquisition_vitrine
+---
+### API d’analyse de sentiment
+API de classification de sentiments sur texte anglais avec score de confiance.
+Stack : Scikit-learn, FastAPI, Docker, Kubernetes, Terraform
+Code : (GitHub) https://github.com/CvrentinH/Projet_API_Analyse_Sentiment
+---
+## Domaines techniques privilégiés
+- Data Science
+- MLOps
+- Développement backend
+---
+## Compétences techniques
+### Langages
+Python, C, R, JavaScript, Bash
+### Frameworks
+FastAPI
+### Bases de données
+SQL, MongoDB
+### Outils DevOps
+Docker, Kubernetes, Terraform, Git, CI/CD
+### Librairies Python
+Pandas, BeautifulSoup, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+### Autres outils ou environnements
+Excel, PowerBI, Bruno, Postman
+---
+## Style de travail
+- Modularité et scalabilité
+- Automatisation systématique
+- Expérimentation continue via side-projects
+---
+## Liens
+Portfolio : https://portfolio-corentin-hellier.netlify.app/
+LinkedIn : https://www.linkedin.com/in/corentin-hellier-7b928b29b/
+Contact : hellier.corentin@gmail.com
