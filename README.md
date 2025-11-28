@@ -7,6 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/corentin-hellier-7b928b29b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellier.corentin@gmail.com)
 
+<br />
+
+>  Passionné par la data, je **développe régulièrement** des projets personnels autour de la **programmation, de l’analyse et du nettoyage de données.**
+>  Cette démarche me permet d’**élargir continuellement mes compétences** au-delà de mon parcours académique et de **renforcer ma maîtrise des outils et méthodes** utilisés en **data science**.
+
+<br />
+
 **ACTUELLEMENT : À la recherche d'un stage (3-6 mois) en Data Science / MLOps / Data Engineering**
 
 </div>
