@@ -3,8 +3,8 @@
 # Corentin Hellier
 ### Data Scientist Junior
 
-[![Portfolio](https://img.shields.io/badge/Portfolio2ea44f?style=for-the-badge&logo=google-chrome)](https://portfolio-corentin-hellier.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/corentin-hellier-7b928b29b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome)](https://portfolio-corentin-hellier.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/corentin-hellier-7b928b29b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellier.corentin@gmail.com)
 
 <br />
