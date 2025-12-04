@@ -50,7 +50,7 @@
 | :--- | :--- | :---: |
 | **LeadScanner** | **Outil d'analyse SEO & Lead Gen**<br>Extraction automatisée d'emails et analyse On-page/Off-page pour l'envoi de leads qualifiés.<br><br>`Python` `BeautifulSoup` `FastAPI` `React` | [Code](https://github.com/CvrentinH/Projet_lead_acquisition_vitrine) |
 | **API Sentiment** | **Classification NLP & MLOps**<br>API de classification de sentiments (texte anglais) avec score de confiance, déployée sur infrastructure scalable.<br><br>`Sklearn` `FastAPI` `Docker` `K8s` `Terraform` | [Code](https://github.com/CvrentinH/Projet_API_Analyse_Sentiment) |
-| **Computer Vision & Edge AI** | **Maritime Obstacle Detection (USV)** <br>Module de perception pour drone maritime autonome. Détection temps réel (Bouées/Bateaux) optimisée pour déploiement embarqué (CPU-only).<br><br>`YOLOv8` `OpenCV` `PyTorch` `Docker` `Edge Computing` | [Code](https://github.com/CvrentinH/Project_buoy_recognition) |
+| **Computer Vision & Edge AI** | **Maritime Obstacle Detection (USV)** <br>Module de perception pour drone maritime autonome. Détection temps réel (Bouées/Bateaux) optimisée pour déploiement embarqué (CPU-only).<br><br>`YOLOv8` `OpenCV` `PyTorch` `Docker` `Edge Computing` | [Code](https://github.com/CvrentinH/Project_buoy_boats_recognition) |
 
 ---
 
