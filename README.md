@@ -14,7 +14,7 @@
 
 <br />
 
-**ACTUELLEMENT : À la recherche d'un stage (3-6 mois) en Data Science / MLOps / Data Engineering**
+**ACTUELLEMENT : À la recherche d'un stage (3-5 mois) à partir de Mars 2026 en Data Science / MLOps / Data Engineering**
 
 </div>
 
