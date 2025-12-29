@@ -51,7 +51,7 @@
 | **LeadScanner** | **SEO Analysis & Lead Gen Tool**<br>Automated email extraction and On-page/Off-page analysis for generating qualified leads.<br><br>`Python` `BeautifulSoup` `FastAPI` `React` | [Code](https://github.com/CvrentinH/Projet_lead_acquisition_vitrine) |
 | **Sentiment API** | **NLP Classification & MLOps**<br>Sentiment classification API (English text) with confidence score, deployed on scalable infrastructure.<br><br>`Sklearn` `FastAPI` `Docker` `K8s` `Terraform` | [Code](https://github.com/CvrentinH/Projet_API_Analyse_Sentiment) |
 | **Computer Vision & Edge AI** | **Maritime Obstacle Detection (USV)** <br>Perception module for autonomous maritime drone. Real-time detection (Buoys/Boats) optimized for embedded deployment (CPU-only).<br><br>`YOLOv8` `OpenCV` `PyTorch` `Docker` `Edge Computing` | [Code](https://github.com/CvrentinH/Project_buoy_boats_recognition) |
-| **12 Projects in Data Field** | **Data Analytics & Data Science** <br>Various projects in Data Field (visualisation, machine learning, statistics...)<br><br>`Python` `PowerBI` `R` `Scikit-learn` `XGBoost` | [Code]((https://github.com/CvrentinH/12_Projets_Data)) |
+| **12 Projects in Data Field** | **Data Analytics & Data Science** <br>Various projects in Data Field (visualisation, machine learning, statistics...)<br><br>`Python` `PowerBI` `R` `Scikit-learn` `XGBoost` | [Code]((https://github.com/CvrentinH/12_Projets_Data) |
 
 ---
 
