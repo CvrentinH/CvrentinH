@@ -1,7 +1,7 @@
 <div align="center">
 
 # Corentin Hellier
-### Data Scientist Junior
+### Junior Data Scientist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome)](https://portfolio-corentin-hellier.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/corentin-hellier-7b928b29b/)
@@ -9,18 +9,18 @@
 
 <br />
 
->  Passionné par la data, je **développe régulièrement** des projets personnels autour de la **programmation, de l’analyse et du nettoyage de données.**
->  Cette démarche me permet d’**élargir continuellement mes compétences** au-delà de mon parcours académique et de **renforcer ma maîtrise des outils et méthodes** utilisés en **data science**.
+>  Passionate about data, I **regularly develop** personal projects revolving around **programming, data analysis, and data cleaning.**
+>  This approach allows me to **continuously expand my skills** beyond my academic background and **strengthen my mastery of tools and methods** used in **data science**.
 
 <br />
 
-**ACTUELLEMENT : À la recherche d'un stage (3-5 mois) à partir de Mars 2026 en Data Science / MLOps / Data Engineering**
+**CURRENTLY: Looking for a 3-5 month internship starting March 2026 in Data Science / MLOps / Data Engineering**
 
 </div>
 
 ---
 
-## Compétences Techniques
+## Technical Skills
 
 ### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Outils & Environnement
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -44,20 +44,21 @@
 
 ---
 
-## Mes Projets
+## My Projects
 
-| Projet | Description & Stack | Liens |
+| Project | Description & Stack | Links |
 | :--- | :--- | :---: |
-| **LeadScanner** | **Outil d'analyse SEO & Lead Gen**<br>Extraction automatisée d'emails et analyse On-page/Off-page pour l'envoi de leads qualifiés.<br><br>`Python` `BeautifulSoup` `FastAPI` `React` | [Code](https://github.com/CvrentinH/Projet_lead_acquisition_vitrine) |
-| **API Sentiment** | **Classification NLP & MLOps**<br>API de classification de sentiments (texte anglais) avec score de confiance, déployée sur infrastructure scalable.<br><br>`Sklearn` `FastAPI` `Docker` `K8s` `Terraform` | [Code](https://github.com/CvrentinH/Projet_API_Analyse_Sentiment) |
-| **Computer Vision & Edge AI** | **Maritime Obstacle Detection (USV)** <br>Module de perception pour drone maritime autonome. Détection temps réel (Bouées/Bateaux) optimisée pour déploiement embarqué (CPU-only).<br><br>`YOLOv8` `OpenCV` `PyTorch` `Docker` `Edge Computing` | [Code](https://github.com/CvrentinH/Project_buoy_boats_recognition) |
+| **LeadScanner** | **SEO Analysis & Lead Gen Tool**<br>Automated email extraction and On-page/Off-page analysis for generating qualified leads.<br><br>`Python` `BeautifulSoup` `FastAPI` `React` | [Code](https://github.com/CvrentinH/Projet_lead_acquisition_vitrine) |
+| **Sentiment API** | **NLP Classification & MLOps**<br>Sentiment classification API (English text) with confidence score, deployed on scalable infrastructure.<br><br>`Sklearn` `FastAPI` `Docker` `K8s` `Terraform` | [Code](https://github.com/CvrentinH/Projet_API_Analyse_Sentiment) |
+| **Computer Vision & Edge AI** | **Maritime Obstacle Detection (USV)** <br>Perception module for autonomous maritime drone. Real-time detection (Buoys/Boats) optimized for embedded deployment (CPU-only).<br><br>`YOLOv8` `OpenCV` `PyTorch` `Docker` `Edge Computing` | [Code](https://github.com/CvrentinH/Project_buoy_boats_recognition) |
+| **12 Projects in Data Field** | **Data Analytics & Data Science** <br>Various projects in Data Field (visualisation, machine learning, statistics...)<br><br>`Python` `PowerBI` `R` `Scikit-learn` `XGBoost` | [Code]((https://github.com/CvrentinH/12_Projets_Data)) |
 
 ---
 
 <div align="center">
   
-*N'hésitez pas à explorer mes dépôts ou à me contacter !*
+*Feel free to explore my repositories or contact me!*
 
-[<img src="https://img.shields.io/badge/Mon_Portfolio-Voir_les_projets-blue?style=flat-square" />](https://portfolio-corentin-hellier.netlify.app/)
+[<img src="https://img.shields.io/badge/My_Portfolio-View_Projects-blue?style=flat-square" />](https://portfolio-corentin-hellier.netlify.app/)
 
 </div>
